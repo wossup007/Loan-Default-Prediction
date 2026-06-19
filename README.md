@@ -1,4 +1,4 @@
-# Bank-Loan-Default-Prediction
+# Loan-Default-Prediction
 # Financial Return Categorization using Machine Learning
 This repository contains an end-to-end data science and machine learning pipeline designed to predict and classify financial return categories (`retcat`). The project implements, benches, and compares multiple predictive models to identify the most accurate framework for performance classification.
 
